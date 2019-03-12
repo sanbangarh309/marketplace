@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family:'Avenir Next';
+    src: url('../fonts/AvenirNext-Bold.eot');
+	src: url('../fonts/AvenirNext-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNext-Bold.woff2') format('woff2'),
+		url('../fonts/AvenirNext-Bold.woff') format('woff'),
+		url('../fonts/AvenirNext-Bold.svg') format('svg'),
+		url('../fonts/AvenirNext-Bold.ttf') format('ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family:'Avenir Next';
+    src: url('../fonts/AvenirNext-Medium.eot');
+	src: url('../fonts/AvenirNext-Medium.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNext-Medium.woff2') format('woff2'),
+		url('../fonts/AvenirNext-Medium.woff') format('woff'),
+		url('../fonts/AvenirNext-Medium.svg') format('svg'),
+		url('../fonts/AvenirNext-Medium.ttf') format('ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family:'Avenir Next';
+    src: url('../fonts/AvenirNext-Regular.eot');
+	src: url('../fonts/AvenirNext-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNext-Regular.woff2') format('woff2'),
+		url('../fonts/AvenirNext-Regular.woff') format('woff'),
+		url('../fonts/AvenirNext-Regular.svg') format('svg'),
+		url('../fonts/AvenirNext-Regular.ttf') format('ttf');
+    font-weight: 300;
+}
